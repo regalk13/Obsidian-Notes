@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "faebd0367eb94769",
+    "type": "split",
+    "children": [
+      {
+        "id": "c794f4a73916ad05",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "Notes/3. Resouces/Programming/Algorithms/Images/heap.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3455ad8162f61553",
+    "type": "split",
+    "children": [
+      {
+        "id": "871dbbacb90e5f13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "735257f4c90d6cd2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "dfe67903e00fca1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 313
+  },
+  "right": {
+    "id": "0fb1ff1ae78cf2d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "c59993c8294e234c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "520bbe082384219d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/3. Resouces/Programming/Algorithms/Images/heap.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c794f4a73916ad05",
+  "lastOpenFiles": [
+    "Notes/3. Resouces/Programming/Algorithms/Images/heap.png",
+    "Notes/2. Areas/Programming/Algorithms/Heap Sort.md",
+    "Notes/2. Areas/Programming/Algorithms/QuickSort.md",
+    "Notes/2. Areas/Programming/Algorithms/Insertion sort, Merge sort.md",
+    "Notes/2. Areas/Programming/Algorithms/Models Of Computation.md",
+    "Notes/2. Areas/Programming/Algorithms/Algorithms.md",
+    "Notes/START HERE!.md",
+    "Notes/2. Areas/Programming/Algorithms/Untitled.md",
+    "Notes/3. Resouces/Programming/Algorithms/Code/insert-sort.py.md",
+    "Notes/3. Resouces/Programming/Algorithms/Code/merge-sort.py.md"
+  ]
+}

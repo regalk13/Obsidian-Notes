@@ -1,0 +1,55 @@
+{
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Page preview": true,
+    "Starred": true,
+    "Custom CSS": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": false,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "Backlinks",
+  "workspaceLayout": {
+    "id": "6780b736213bec79",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "f4052f53586cae57",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "01 Obsidian Workflows.md",
+            "mode": "source"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "01 Obsidian Workflows.md",
+    "04 Flat PARA/PARA with flat file structure.md",
+    "Writing With Obsidian/03 Tracking Submissions in Obsidian.md",
+    "IMF.md",
+    "Obsidian Workflows.md"
+  ],
+  "vimMode": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true
+}

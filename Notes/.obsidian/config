@@ -1,0 +1,52 @@
+{
+  "fileSortOrder": "alphabetical",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Word count": true,
+    "Command palette": true,
+    "Markdown format converter": false,
+    "Custom CSS": true,
+    "Page preview": true,
+    "Starred": true,
+    "Open with default app": true,
+    "Random note": true,
+    "Markdown format importer": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "lastOpenRightSidedockTab": "",
+  "theme": "obsidian",
+  "workspaceLayout": {
+    "id": "7cd23eecca7a7bcb",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "5264164878d8cfd6",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "START HERE!.md",
+    "3. Resouces/Marketing/Beginners Guide to Product Qualified Leads (PQL).md",
+    "1. Projects/PARA Starter Kit/Methodology.md"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "alwaysUpdateLinks": true,
+  "autoPairMarkdown": true
+}
