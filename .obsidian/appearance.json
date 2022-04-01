@@ -1,8 +1,8 @@
 {
   "theme": "obsidian",
-  "baseFontSize": 30,
+  "baseFontSize": 23,
   "enabledCssSnippets": [
     "obsidian"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "80s Neon"
 }
