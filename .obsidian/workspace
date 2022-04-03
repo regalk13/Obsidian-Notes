@@ -9,7 +9,7 @@
         "state": {
           "type": "pdf-annotator",
           "state": {
-            "file": "Annotator books/test.md"
+            "file": "Annotator books/CLRS.md"
           }
         }
       }
@@ -51,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313
+    "width": 313,
+    "collapsed": true
   },
   "right": {
     "id": "0fb1ff1ae78cf2d2",
@@ -73,19 +74,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "active": "771a6f90bb8c2c42",
   "lastOpenFiles": [
-    "Annotator books/test.md",
+    "Annotator books/CLRS.md",
+    "Annotator books/Algorithms.pdf",
+    "Notes/3. Resouces/Programming/Algorithms/Sorting.md",
+    "Day Planners/Day Planner-20220403.md",
+    "Day Planners/Day Planner-20220401.md",
     "Annotator books/testing.md",
     "Notes/3. Resouces/Programming/Algorithms/PDF/Models-Computation.pdf",
     "Annotator books/CLRFS.md",
     "Annotator books/CLRS Learning.md",
-    "Day Planners/Day Planner-20220401.md",
-    "Day Planners/Day Planner-20220331.md",
-    "Day Planners/Day Planner-20220330.md",
-    "Day Planners/Day Planner-20220329.md",
-    "Notes/2. Areas/Programming/Algorithms/Algorithms.md"
+    "Day Planners/Day Planner-20220331.md"
   ]
 }
