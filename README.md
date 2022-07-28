@@ -12,7 +12,3 @@ Install Obsidian in your OS, in the first opening it will ask you to create a va
 ## Contribution
 
 You can fully contribute to the project by adding topics of what I learn, resources and others.
-
-## Apologies
-
-I am not very sure about the DMCA, the resources, all of them are free and it is easy to find the source, I am NOT distributing in a way to profit, I just want that when you open the project you have those files, but in the future some of them I will not push them in the repo because of their rights... so everything that I have not done directly, belong totally to their authors. (I am talking about PDFS, papers or books I am learning from or citing in my notes.)
